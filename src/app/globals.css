@@ -242,6 +242,7 @@
   flex-direction: column;
   height: 98px;
   justify-content: space-between;
+  color: #4D5254;
 }
 
 .discount-advice {
@@ -582,6 +583,22 @@
     font-weight: 400;
     line-height: 16.8px;
     text-align: center;
+  }
+
+  .product-card .rigth-side .product-details .bullets {
+    font-size: 12px;
+    width: 320px;
+    line-height: 19.2px;
+  }
+
+  .product-card .rigth-side .product-details .bullets li {
+    margin: 0;
+  }
+
+  .product-card .rigth-side .product-details .bullets img {
+    width: 16px;
+    height: 16px;
+    margin-right: 12px;
   }
 
   .product-card .discount-advice {
